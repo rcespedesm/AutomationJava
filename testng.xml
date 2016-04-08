@@ -4,6 +4,10 @@
   <test name="Test">
     <classes>
       	<class name="fundacionjala.org.Meeting"/>
+      	<class name="fundacionjala.org.Server"/>
+      	<class name="fundacionjala.org.Resource"/>
+      	<class name="fundacionjala.org.Location"/>
+      	<class name="fundacionjala.org.ConferenceRoom"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
